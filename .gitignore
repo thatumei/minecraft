@@ -1,0 +1,6 @@
+# Pythonのキャッシュディレクトリ
+__pycache__/
+
+# Minecraft関連のディレクトリとログファイル
+.minecraft/
+minecraft.log
